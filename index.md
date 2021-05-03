@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Demo Blog using Github Pages with Jekyll"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# Description
+
+This is a demo page to show how Github pages works.
